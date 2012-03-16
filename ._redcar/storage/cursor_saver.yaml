@@ -1,0 +1,15 @@
+--- 
+cursor_positions: 
+  - :path: app/views/layouts/application.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-03-14 14:50:27.559000 -04:00
+  - :path: test/performance/browsing_test.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-14 14:50:28.788000 -04:00
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-14 14:50:27.553000 -04:00
+  - :path: log/development.log
+    :cursor_offset: 0
+    :timestamp: 2012-03-15 10:42:32.549000 -04:00
+files_to_retain: 0
